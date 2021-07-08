@@ -7,7 +7,7 @@ Steps to use
 
  ### If you have git installed 
 
-* git clone https://github.com/aKardev07/NextJs-Tailwind-CSS-Starter-Template
+* git clone https://github.com/Kardev07/NextJs-Tailwind-CSS-Starter-Template
  
 * cd into the app
 ```bash 
